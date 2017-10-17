@@ -21,7 +21,7 @@ A set of interesting talks, conferences and keynotes about Software Development,
   - [How AI can enhance our memory, work and social lives][Talk2]
   - [How computers learn to recognize objects instantly][Talk3] (I disagree with the title but still, is an interesting talk)
   - [Movies for hackers][Talk4]: They're not precisely talks, but you can't miss this great movies about hacking and other related stuff.
-  - [What the heck is the event loop anyway?][eventlopp]: Starting with Javascript? This is a MUST SEE video for anyone, if can't understand the event loop after watching this video, may web development isn't your thing.
+  - [What the heck is the event loop anyway?][eventloop]: Starting with Javascript? This is a MUST SEE video for anyone, if you can't understand the event loop after watching this video, may web development isn't your thing.
 
 ## Useful applications
 - [Dillinger][dillinger]: An online Markdown editor with preview integrated.
